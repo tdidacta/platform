@@ -55,3 +55,7 @@ Para cada EA-ID: 1) recuperar fuente(s) Seyra y el tipo de evidencia; 2) reconst
 Especial atención a las **hipótesis EA-H01..H09 y EA2-H01..H06** de Seyra: son pruebas candidatas, no Studies promovidos ni entregables aprobados. No convertir comparadores o mediciones propuestas en instrumentación forzosa con datos personales.
 
 **Frontera:** este inventario no declara transición de fase, arquitectura, features, pricing, estrategia comercial ni marketing. La decisión posterior de no incorporar un candidato a v1 no elimina su valor investigativo ni el horizonte público, privado, particular o penitenciario.
+
+## Precisiones posteriores del handoff integrado de Seyra (2026-10-11)
+
+Ver [evaluacion de Limen](seyra-integrated-handoff-triage.md) y [fuente de Seyra](https://github.com/vslices/research-space/blob/main/lines/educational-capacity-under-institutional-constraints/notes/2026-10-11-handoff-integrado-a-limen-pre-contextualizing-v1.md). Se conservan **como mejores preguntas de contraste** en IDs ya existentes, no como nuevos candidatos o funcionalidades: EA-03/09 distinguir reutilizar/adaptar/crear y costo neto; EA-19 examinar evaluacion curricular independiente R0a optativa; EA-21 separar referencia R0, practica B0, alternativa B1 y TDidacta B2 con R0b opcional; EA-10/14 diferenciar autoridad pedagogica, autorizacion y derechos; EA-23 fijar criterios antes del output y evitar contaminacion de comparadores. R0a/R0b no ejecutados ni condicion de transicion. Todos permanecen `pending-contextualizing`.
