@@ -78,3 +78,9 @@ Se registró la [reconstrucción candidata del trabajo pedagógico](understandin
 Se agregó [selección de estrategias, actividades y evaluación](understanding/strategy-activity-assessment.md), con referencias MINEDUC, CAST y EEF. Hallazgo documental: decisiones sobre estrategia, actividad y evaluación se vinculan a objetivos, concepciones previas, evidencias y variabilidad del alumnado; la retroalimentación puede conducir a revisiones iterativas. Se incluyó contraste ilustrativo de fotosíntesis, expresamente **no validado en aula**.
 
 **Fase:** Understanding sigue abierta. **Límite:** hay variabilidad terminológica entre método/enfoque/estrategia/técnica y falta evidencia de práctica docente observada. **Siguiente presión:** contraste con una práctica educativa documentada que conecte planificación, intervención y revisión. La correspondencia sistemática con drafts de TDidacta continúa reservada a Contextualizing.
+
+## Tradiciones y frecuencia de prácticas — 2026-10-11
+
+Se documentó [investigación de tradiciones pedagógicas](understanding/pedagogical-traditions.md): diferencia entre teorías, enfoques, métodos, estrategias y actividades; familias heurísticas; datos de frecuencia de prácticas docentes autodeclaradas TALIS 2024 y variantes ilustrativas en fotosíntesis. **No se adoptó taxonomía oficial ni modelo TDidacta.**
+
+**Fase:** Understanding abierta. **Presión siguiente:** contrastar con fuentes metodológicas dos recorridos distintos (instrucción explícita e indagación guiada), examinando ayudas, actividad, evidencia y revisión. Los conceptos TDidacta permanecen drafts, con comparación reservada a Contextualizing.
