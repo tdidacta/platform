@@ -28,3 +28,9 @@ Entregar matriz trazable de casos Chile/internacional y resultados contrastantes
 
 ## Fronteras
 No decidir funcionalidades, arquitectura, precios, modelo comercial ni campanas. Esta indagacion se relacionara sistematicamente con TDidacta en Contextualizing. Las hipotesis de Limen son cuestionables; Seyra conserva autonomia metodologica y de conclusiones.
+
+## Horizonte potencial de alcance de TDidacta (objetivo, no compromiso)
+
+Hernán expresó que TDidacta **aspira eventualmente a servir a personas que enseñan en sistemas públicos, privados y en ejercicio particular**, tanto **con formación o experiencia pedagógica como sin ellas**. Es una aspiración de evolución y amplitud de destinatarios, **no** un requisito aprobado de v1, un compromiso de cobertura universal ni una autorización para asumir equivalencia entre contextos.
+
+Para esta investigación, Seyra debería **considerar diferencias de adopción** entre estos grupos: acceso institucional vs individual; presupuestos y compras; disponibilidad de tiempo y soporte; expectativas de autonomía; habilidades digitales y pedagógicas; obligaciones regulatorias; legitimidad, confianza y necesidad de orientación. No asumir que personas sin formación pedagógica tengan iguales necesidades, atribuciones ni condiciones para intervenir en instituciones educativas. Buscar barreras y facilitadores situados, incluidos contraejemplos; separar lo investigado de hipótesis sobre TDidacta.
