@@ -58,3 +58,9 @@ Se consultó el metaprotocolo candidato (README, state y how-to-start), se compr
 **Frontera alcanzada:** startup y Orientation mínimos registrados; **no se ha concluido Understanding**, no se ha ejecutado un prototipo ni verificado comportamiento pedagógico. La próxima presión es reconstruir la actividad humana concreta antes de derivar requerimientos o implementar.
 
 Actualizar este archivo solo ante cambios materiales de fase, evidencia, decisiones, delegación, riesgo o siguiente presión. Referenciar artefactos propietarios en lugar de duplicarlos.
+
+## Avance de Understanding — 2026-10-11
+
+Se registró la [reconstrucción candidata del trabajo pedagógico](understanding/teaching-work.md), basada en la reformulación del caso de fotosíntesis y contrastes terminológicos MINEDUC/UNESCO. Distingue unidad didáctica, secuencia, actividades, planificación y formalización material; incorpora decisión interna de lecciones autónomas reutilizables, «lecciones de pegamento» y expectativa de edición/rollback de lecciones y guías.
+
+**Evidencia:** conversación del 2026-10-11 y fuentes enlazadas en el artefacto. **Límite:** no es observación de aula ni norma pedagógica universal. **Fase:** Understanding continúa abierta; no hay diseño de Platform ni validación de TDIR. **Presión siguiente:** contrastar fronteras conceptuales entre guía, unidad, secuencia y lección autónoma, además de validar el flujo con ejemplos docentes, antes de sistematizarlo.
