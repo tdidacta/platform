@@ -96,3 +96,7 @@ Se examinó el enfoque en [Understanding — instrucción explícita](understand
 Se completó una primera [indagación documental sobre indagación guiada](understanding/guided-inquiry.md) con referencias National Academies/NRC, Pedaste e IB. La apertura de la indagación varía independientemente según quién plantea preguntas, selecciona evidencias, construye explicaciones y comunica conclusiones; apoyos y evaluación se revisan durante la actividad. El ejemplo de fotosíntesis es ilustrativo, no práctica observada.
 
 **Estado:** Understanding sigue abierto; no se formalizaron conceptos de TDidacta ni arquitectura. **Próxima presión:** contraste entre instrucción explícita e indagación guiada en términos del trabajo educativo compartido y sus diferencias; determinar si requiere evidencia adicional antes de Contextualizing.
+
+## Contraste pedagógico y riesgo de diversidad — 2026-10-11
+
+Se registró [comparación de instrucción explícita e indagación guiada](understanding/instruction-inquiry-comparison.md). Se distinguieron funciones compartidas, responsabilidades y variaciones de apoyo/evidencia. Se abrió explícitamente la pregunta **cuánta diversidad comprender y si ofrecer configuración libre**, sin tomarla como decisión de Platform. Dos métodos documentados no demuestran cobertura del dominio. **Fase:** Understanding abierta. **Próxima presión:** contrastar con práctica docente documentada y observar combinaciones y revisiones reales. Comparación con drafts TDidacta continúa reservada para Contextualizing.
