@@ -106,3 +106,9 @@ Se registró [comparación de instrucción explícita e indagación guiada](unde
 Se publicó [Scope de Understanding](understanding/scope.md): inventario de lo efectivamente investigado, evidencia, límites y áreas **no profundizadas**, reconocidas superficialmente mediante fuentes UNESCO, EEF, CAST y OCDE (problemas/proyectos, colaboración, diálogo, experiencia, dominio, accesibilidad, inclusión, educación no formal, modalidades y evaluación). **El inventario no supone cobertura exhaustiva ni decisiones de soporte de v1.**
 
 **Fase:** Understanding abierta; la documentación del scope no constituye cierre de fase. **Próxima presión:** establecer si hace falta examinar una práctica docente real documentada antes de avanzar; mantener comparación con drafts de TDidacta para Contextualizing.
+
+## Revisión de diez prácticas documentadas — 2026-10-11
+
+Se realizó una [revisión rápida de diez prácticas docentes](understanding/ten-documented-practices.md), seleccionadas intencionalmente por diversidad de disciplinas, edades, métodos y evidencia disponible. Tres casos permiten contrastar secuencias concretas en los textos/extractos consultados; otros siete tienen principalmente datos de resúmenes o relatos, por lo que **no** se declara análisis profundo uniforme. Se hallaron ciclos de revisión intra-sesión, inter-sesión y entre docentes; evidencias no textuales; y actores adicionales a docente/estudiante. No se infiere eficacia causal ni representatividad de la muestra.
+
+**Fase:** Understanding abierta. **Siguiente presión:** profundizar en los casos mejor documentados y contrastar una práctica chilena si existe evidencia disponible; evaluar si alcanza una frontera justificada para Contextualizing. Los drafts de TDidacta no se han sistematizado.
