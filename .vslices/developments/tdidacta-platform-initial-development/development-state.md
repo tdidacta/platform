@@ -132,3 +132,7 @@ Se prepararon dos solicitudes independientes para Research: [barreras de adopcio
 ## Horizonte de destinatarios — 2026-10-11
 
 Hernán precisó una **aspiración de alcance futuro** para TDidacta: apoyar a quienes enseñan en sistemas públicos, privados y de manera particular, con y sin formación o experiencia pedagógica. **No es compromiso de cobertura inmediata ni requisito de v1.** Se incorporó esta distinción a ambos handoffs para Seyra: [adopción](handoffs/research-educational-adoption.md) y [realidad del trabajo educativo](handoffs/research-classroom-reality.md), como diversidad a investigar y límites a registrar, sin anticipar diseños ni confundir responsabilidades institucionales.
+
+## Horizonte de educacion penitenciaria — 2026-10-11
+
+Hernan propone como aspiracion futura de TDidacta contribuir a la educacion en contextos de encierro y a la continuidad educativa para reinsercion social. Se comprobo la existencia de una linea de Educacion en Contextos de Encierro de MINEDUC EPJA, con articulacion interinstitucional; MINEDUC reporto para cierre de 2024 91 establecimientos y 15.063 matriculados. No inferir tasa nacional de cobertura ni causalidad sobre reincidencia. Se ampliaron [handoff de practica real](handoffs/research-classroom-reality.md) y [handoff de adopcion](handoffs/research-educational-adoption.md) para Seyra, como lineas de investigacion, sin comprometer alcance v1. Understanding sigue abierto.
