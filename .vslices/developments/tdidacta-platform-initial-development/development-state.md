@@ -84,3 +84,9 @@ Se agregó [selección de estrategias, actividades y evaluación](understanding/
 Se documentó [investigación de tradiciones pedagógicas](understanding/pedagogical-traditions.md): diferencia entre teorías, enfoques, métodos, estrategias y actividades; familias heurísticas; datos de frecuencia de prácticas docentes autodeclaradas TALIS 2024 y variantes ilustrativas en fotosíntesis. **No se adoptó taxonomía oficial ni modelo TDidacta.**
 
 **Fase:** Understanding abierta. **Presión siguiente:** contrastar con fuentes metodológicas dos recorridos distintos (instrucción explícita e indagación guiada), examinando ayudas, actividad, evidencia y revisión. Los conceptos TDidacta permanecen drafts, con comparación reservada a Contextualizing.
+
+## Instrucción explícita — 2026-10-11
+
+Se examinó el enfoque en [Understanding — instrucción explícita](understanding/explicit-instruction.md), con fuentes Rosenshine, AERO y EEF. El recorrido candidato distingue modelado, práctica guiada, comprobación, ajuste de apoyos y práctica autónoma, **sin imponer `I do / we do / you do` como secuencia universal**. El ejemplo de fotosíntesis es razonado, no ejecución observada.
+
+**Fase:** Understanding abierta. **Próxima presión:** contrastar con un caso docente documentado y luego examinar indagación guiada para comprobar la diversidad de trabajo. Los conceptos propios de TDidacta permanecen drafts, con comparación sistemática reservada para Contextualizing.
