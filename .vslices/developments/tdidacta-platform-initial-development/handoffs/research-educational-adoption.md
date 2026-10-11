@@ -34,3 +34,11 @@ No decidir funcionalidades, arquitectura, precios, modelo comercial ni campanas.
 Hernán expresó que TDidacta **aspira eventualmente a servir a personas que enseñan en sistemas públicos, privados y en ejercicio particular**, tanto **con formación o experiencia pedagógica como sin ellas**. Es una aspiración de evolución y amplitud de destinatarios, **no** un requisito aprobado de v1, un compromiso de cobertura universal ni una autorización para asumir equivalencia entre contextos.
 
 Para esta investigación, Seyra debería **considerar diferencias de adopción** entre estos grupos: acceso institucional vs individual; presupuestos y compras; disponibilidad de tiempo y soporte; expectativas de autonomía; habilidades digitales y pedagógicas; obligaciones regulatorias; legitimidad, confianza y necesidad de orientación. No asumir que personas sin formación pedagógica tengan iguales necesidades, atribuciones ni condiciones para intervenir en instituciones educativas. Buscar barreras y facilitadores situados, incluidos contraejemplos; separar lo investigado de hipótesis sobre TDidacta.
+
+## Horizon de investigacion: adopcion en educacion penitenciaria
+
+Hernan expresa una aspiracion futura de que TDidacta pueda contribuir a la educacion en contextos de encierro y reinsercion. No obliga a cubrirlo en v1 ni demuestra efecto en reincidencia.
+
+Seyra: estudiar barreras y facilitadores de adopcion en escuelas intrapenitenciarias chilenas y experiencias internacionales: autorizaciones, seguridad, conectividad, tiempo docente, recursos, acompanamiento, continuidad tras traslados y liberacion, acreditacion y privacidad. Distinguir educacion formal, formacion laboral, reinsercion juvenil y trabajo psicosocial. Buscar casos sostenidos y fallidos; no atribuir causalidad a correlaciones.
+
+Fuentes: MINEDUC https://epja.mineduc.cl/que-es-la-educacion-en-contextos-de-encierro/ ; UNESCO https://www.uil.unesco.org/en/adult-education/prison-education .
