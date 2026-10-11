@@ -128,3 +128,7 @@ A raíz del caso chileno identificado durante el cribado de prácticas, se reali
 ## Handoffs a Seyra — 2026-10-11
 
 Se prepararon dos solicitudes independientes para Research: [barreras de adopcion de herramientas e iniciativas educativas](handoffs/research-educational-adoption.md) y [realidad observada de clases y trabajo pedagogico](handoffs/research-classroom-reality.md). Son handoffs, no investigaciones completadas ni aceptadas por Seyra. Preservan criterios de evidencia, preguntas abiertas y autonomia de Research. Los 90 registros adicionales son fuentes candidatas, no 90 casos analizados. Understanding de Development permanece abierta; comparacion con los drafts de TDidacta reservada para Contextualizing.
+
+## Horizonte de destinatarios — 2026-10-11
+
+Hernán precisó una **aspiración de alcance futuro** para TDidacta: apoyar a quienes enseñan en sistemas públicos, privados y de manera particular, con y sin formación o experiencia pedagógica. **No es compromiso de cobertura inmediata ni requisito de v1.** Se incorporó esta distinción a ambos handoffs para Seyra: [adopción](handoffs/research-educational-adoption.md) y [realidad del trabajo educativo](handoffs/research-classroom-reality.md), como diversidad a investigar y límites a registrar, sin anticipar diseños ni confundir responsabilidades institucionales.
