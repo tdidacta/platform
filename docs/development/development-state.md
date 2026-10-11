@@ -35,7 +35,7 @@ Observación al inicio: en `tdidacta/platform/main` solo existía `README.md`; n
 
 ## Situación de trabajo
 
-**Fase actual:** Understanding — siguiente movimiento, no declarada completada.  
+**Fase actual:** Contextualizing (primer caso acotado); Understanding cerrado de manera delimitada el 2026-10-11. Ver registro de transicion al final.  
 **Modalidad provisional:** Problem-First, porque se conoce la intención de producto pero faltan actores, condiciones, procesos y resultados verificables para el primer incremento. Revisable con evidencia.  
 **Continuidad principal:** intención/autoridad docente y experiencia docente–estudiante → trabajo observable → responsabilidades justificables, antes de proponer arquitectura.
 
@@ -164,3 +164,9 @@ Hernan preciso que el objetivo del hito no es una demo «defendible» por presen
 ## Frontera de Understanding y objetivo TDIR/publicacion independiente — 2026-10-11
 
 Hernan preciso que el primer caso debe reconstruirse mediante un `.tdir` base generable **desde Platform**, con artefacto realizable y publicable desde la misma Platform, cuyo comportamiento autonomo declarado no dependa de mantener operativa la plataforma generadora. Limen registro [evaluacion de cierre acotado y entrada a Contextualizing](understanding/closure-and-contextualizing-entry-assessment.md), con preguntas U-01..U-08 y escenarios de independencia/servicios. **No** se adopto schema TDIR, arquitectura, SLA ni hosting; tampoco hay artefacto generado/ejecutado de la nueva Platform. Existe base documental para proponer cierre de Understanding limitado al primer caso, pero **la fase sigue abierta y no se produjo transicion formal**. La proxima presion es reconstruir y cerrar explicitamente fronteras del problema antes de mapear responsabilidades en Contextualizing.
+
+## Migracion documental y transicion acotada — 2026-10-11
+
+Hernan aclaro que `.vslices` queda reservado a configuracion de la suite; **los 23 documentos anteriores** (estado de desarrollo, handoffs y Understanding) se movieron a `docs/development/`, en commit `1267160`. No se dejaron copias bajo `.vslices`. Enlaces historicos a commits anteriores pueden conservar la ruta vieja; la ruta actual es `docs/development/`.
+
+Se registro [cierre acotado de Understanding](understanding/closure-2026-10-11.md). **Fase actual: Contextualizing, limitada al primer caso.** El cierre no declara comprendida toda la pedagogia ni valida un formato TDIR. En [garantias candidatas](contextualizing/service-guarantees.md) se separan obligaciones observables del artefacto, degradacion y funcion offline de las **decisiones de infraestructura reservadas a Planning**. SG-01..SG-10 estan pendientes de seleccion y contraste; no constituyen implementacion probada ni SLA. La siguiente presion es determinar responsabilidades, fronteras y garantias aplicables al TDIR base generado por Platform y a su artefacto publicable, antes de elegir infraestructura.
