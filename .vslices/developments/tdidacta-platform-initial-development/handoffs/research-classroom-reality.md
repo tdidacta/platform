@@ -31,3 +31,9 @@ Entregar inventario deduplicado y elegible; fichas trazables de casos; patrones,
 
 ## Fronteras
 No definir ontologia de TDidacta, mecanismos, UX, arquitectura ni formato .tdir. Leccion, guia y leccion de conexion siguen siendo drafts del producto; su comparacion sistematica con la pedagogia corresponde a Contextualizing. Seyra puede disentir de las reconstrucciones de Limen.
+
+## Horizonte potencial de alcance de TDidacta (objetivo, no compromiso)
+
+Hernán expresó que TDidacta **aspira eventualmente a apoyar a personas que enseñan en educación pública, privada o particular**, con o sin **formación o experiencia pedagógica**. No obliga a cubrir todo en v1 ni a convertir estos grupos en categorías cerradas del dominio. El alcance futuro deberá justificarse con evidencia y decisiones posteriores.
+
+Para la investigación, Seyra debería contrastar prácticas **institucionales y no institucionales** y trayectorias de experiencia distintas: docentes titulados y novatos, tutores particulares, personas que enseñan por oficio o experiencia, facilitadores comunitarios, etc., sin asumir que todos ejercen las mismas responsabilidades o bajo las mismas regulaciones. Examinar qué cambia en planificación, apoyos, evaluación, preparación, confianza y necesidades de guía para quien enseña. Incluir diversidad como horizonte investigativo y documentar explícitamente lo no estudiado, **sin prometer representación universal**.
