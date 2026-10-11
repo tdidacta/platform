@@ -42,3 +42,11 @@ Hernan expresa una aspiracion futura de que TDidacta pueda contribuir a la educa
 Seyra: estudiar barreras y facilitadores de adopcion en escuelas intrapenitenciarias chilenas y experiencias internacionales: autorizaciones, seguridad, conectividad, tiempo docente, recursos, acompanamiento, continuidad tras traslados y liberacion, acreditacion y privacidad. Distinguir educacion formal, formacion laboral, reinsercion juvenil y trabajo psicosocial. Buscar casos sostenidos y fallidos; no atribuir causalidad a correlaciones.
 
 Fuentes: MINEDUC https://epja.mineduc.cl/que-es-la-educacion-en-contextos-de-encierro/ ; UNESCO https://www.uil.unesco.org/en/adult-education/prison-education .
+
+## Precisión investigativa: educación, involucramiento delictivo y reincidencia
+
+Hernán solicita no limitar el horizonte a educación durante el encierro: también investigar la relación de acceso, continuidad y calidad de educación **formal e informal** con el riesgo de involucramiento inicial en delitos, y separadamente con reincidencia. **No asumir que falta de educación causa delito ni estigmatizar a personas de menor escolaridad.** Distinguir correlaciones de estimaciones causales; factores de confusión como condiciones socioeconómicas, empleo, desigualdad y trayectorias familiares/institucionales; categorías de delito, edades y poblaciones.
+
+Referencias de entrada: Lochner y Moretti (2004), https://doi.org/10.1257/000282804322970751 (estimación del efecto de escolaridad obligatoria sobre arrestos/encarcelamiento en EE. UU.); RAND Davis et al. (2013), https://doi.org/10.7249/RR266 (metaanálisis de educación penitenciaria y reincidencia; limitaciones de diseños). Ambas requieren evaluar transportabilidad a Chile y distinguir educación escolar de aprendizajes informales.
+
+Investigar por separado **prevención primaria**, **educación en contextos de encierro** y **continuidad educativa/reinserción posterior al egreso**. El valor de educar como derecho y capacidad humana permanece independiente de demostrar reducción de criminalidad. No atribuir efectos de TDidacta sin evaluación directa.
