@@ -90,3 +90,9 @@ Se documentó [investigación de tradiciones pedagógicas](understanding/pedagog
 Se examinó el enfoque en [Understanding — instrucción explícita](understanding/explicit-instruction.md), con fuentes Rosenshine, AERO y EEF. El recorrido candidato distingue modelado, práctica guiada, comprobación, ajuste de apoyos y práctica autónoma, **sin imponer `I do / we do / you do` como secuencia universal**. El ejemplo de fotosíntesis es razonado, no ejecución observada.
 
 **Fase:** Understanding abierta. **Próxima presión:** contrastar con un caso docente documentado y luego examinar indagación guiada para comprobar la diversidad de trabajo. Los conceptos propios de TDidacta permanecen drafts, con comparación sistemática reservada para Contextualizing.
+
+## Indagación guiada — 2026-10-11
+
+Se completó una primera [indagación documental sobre indagación guiada](understanding/guided-inquiry.md) con referencias National Academies/NRC, Pedaste e IB. La apertura de la indagación varía independientemente según quién plantea preguntas, selecciona evidencias, construye explicaciones y comunica conclusiones; apoyos y evaluación se revisan durante la actividad. El ejemplo de fotosíntesis es ilustrativo, no práctica observada.
+
+**Estado:** Understanding sigue abierto; no se formalizaron conceptos de TDidacta ni arquitectura. **Próxima presión:** contraste entre instrucción explícita e indagación guiada en términos del trabajo educativo compartido y sus diferencias; determinar si requiere evidencia adicional antes de Contextualizing.
