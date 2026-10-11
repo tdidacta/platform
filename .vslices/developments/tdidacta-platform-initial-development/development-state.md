@@ -64,3 +64,11 @@ Actualizar este archivo solo ante cambios materiales de fase, evidencia, decisio
 Se registró la [reconstrucción candidata del trabajo pedagógico](understanding/teaching-work.md), basada en la reformulación del caso de fotosíntesis y contrastes terminológicos MINEDUC/UNESCO. Distingue unidad didáctica, secuencia, actividades, planificación y formalización material; incorpora decisión interna de lecciones autónomas reutilizables, «lecciones de pegamento» y expectativa de edición/rollback de lecciones y guías.
 
 **Evidencia:** conversación del 2026-10-11 y fuentes enlazadas en el artefacto. **Límite:** no es observación de aula ni norma pedagógica universal. **Fase:** Understanding continúa abierta; no hay diseño de Platform ni validación de TDIR. **Presión siguiente:** contrastar fronteras conceptuales entre guía, unidad, secuencia y lección autónoma, además de validar el flujo con ejemplos docentes, antes de sistematizarlo.
+
+## Revisión de Understanding — dominio primero, 2026-10-11
+
+**Decisión de orientación confirmada por Hernán:** conservar `lección`, `guía` y `lección de conexión/pegamento` como **drafts de TDidacta**, sin renombrarlos ni elevarlos a categorías pedagógicas. Continuar comprendiendo el vocabulario y trabajo pedagógicos durante **Understanding** y **reservar la comparación sistemática entre ambos vocabularios para Contextualizing**. Esto reemplaza la próxima presión de comparación temprana consignada en el avance anterior, sin borrar su historial.
+
+**Evidencia nueva:** [indagación del dominio pedagógico](understanding/pedagogical-domain.md), con fuentes MINEDUC, UNESCO-IBE y EEF, y un flujo de trabajo educativo candidato que incluye planificación, elaboración, realización, evaluación y revisión. No constituye observación directa de aula ni taxonomía universal.
+
+**Fase:** Understanding permanece abierta; modalidad Problem-First provisional. **Siguiente presión:** contrastar la reconstrucción documental con un caso de práctica educativa y profundizar las distinciones entre estrategias, métodos, actividades, recursos y evaluación que resulten materiales. Comparación con categorías propias, arquitectura y TDIR diferidas a la responsabilidad/fase apropiada.
