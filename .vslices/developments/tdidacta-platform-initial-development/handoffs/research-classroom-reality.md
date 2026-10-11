@@ -45,3 +45,11 @@ Hernan propone incluir como aspiracion futura de TDidacta el apoyo a personas pr
 Seyra: contrastar practicas reales en escuelas penitenciarias chilenas y reinsercion juvenil, mas casos internacionales. Examinar planificacion, aulas, interrupciones por traslados, diversidad educativa, decisiones y apoyos, acceso a recursos, seguridad, conectividad, evaluacion, certificacion y continuidad despues de egreso. Distinguir derechos educativos de evidencia sobre reincidencia. Verificar cifras y causas; priorizar observacion y testimonios triangulados.
 
 Fuentes de orientacion: MINEDUC https://epja.mineduc.cl/que-es-la-educacion-en-contextos-de-encierro/ ; UNESCO https://www.uil.unesco.org/en/prison-education-case-studies .
+
+## Precisión investigativa: educación, involucramiento delictivo y reincidencia
+
+Hernán solicita no limitar el horizonte a educación durante el encierro: también investigar la relación de acceso, continuidad y calidad de educación **formal e informal** con el riesgo de involucramiento inicial en delitos, y separadamente con reincidencia. **No asumir que falta de educación causa delito ni estigmatizar a personas de menor escolaridad.** Distinguir correlaciones de estimaciones causales; factores de confusión como condiciones socioeconómicas, empleo, desigualdad y trayectorias familiares/institucionales; categorías de delito, edades y poblaciones.
+
+Referencias de entrada: Lochner y Moretti (2004), https://doi.org/10.1257/000282804322970751 (estimación del efecto de escolaridad obligatoria sobre arrestos/encarcelamiento en EE. UU.); RAND Davis et al. (2013), https://doi.org/10.7249/RR266 (metaanálisis de educación penitenciaria y reincidencia; limitaciones de diseños). Ambas requieren evaluar transportabilidad a Chile y distinguir educación escolar de aprendizajes informales.
+
+Investigar por separado **prevención primaria**, **educación en contextos de encierro** y **continuidad educativa/reinserción posterior al egreso**. El valor de educar como derecho y capacidad humana permanece independiente de demostrar reducción de criminalidad. No atribuir efectos de TDidacta sin evaluación directa.
