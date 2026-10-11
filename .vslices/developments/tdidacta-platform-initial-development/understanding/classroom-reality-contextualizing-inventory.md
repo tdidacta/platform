@@ -64,3 +64,9 @@ Para cada candidato examinar: fenómeno fuente -> concepto draft de TDidacta (si
 La recepción de Research **no cierra automáticamente Understanding**. Sí aporta una base externa documentada para examinar tensiones en Contextualizing cuando se acuerde transición. Mantener Research como autor de sus hallazgos, Limen como autor de este inventario y Hernán como autoridad sobre compromisos de producto.
 
 **Siguiente acción propuesta:** revisar este inventario con Hernán, luego recorrer bloques de IDs durante Contextualizing sin convertir el inventario en backlog de implementación. La línea de investigación separada sobre adopción educativa se integrará por procedencia propia cuando llegue su handback.
+
+## CR-21 — Respaldo pedagógico público de metodologías nombradas
+
+**Estado:** `pending-contextualizing`. **Origen:** intención explícita de Hernán, no hallazgo atribuido a Seyra. [Ficha de presión, distinciones y preguntas](pedagogical-method-evidence-and-examples.md).
+
+Si TDidacta nombra o presenta una metodología, se aspira a ofrecer estudios/referencias y/o ejemplos públicos pertinentes que permitan aprender qué es, sus condiciones, alternativas y límites, especialmente para personas sin formación pedagógica. El respaldo deberá diferenciar evidencia de práctica de evidencia de eficacia y no afirmar causalidad inexistente. **Contextualizing** resolverá grados de respaldo, responsabilidades, fuentes, mantenimiento y alcance de v1; no se asume que todas las metodologías tengan pruebas suficientes ni que TDidacta imparta formación acreditada.
