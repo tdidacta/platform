@@ -37,3 +37,11 @@ No definir ontologia de TDidacta, mecanismos, UX, arquitectura ni formato .tdir.
 Hernán expresó que TDidacta **aspira eventualmente a apoyar a personas que enseñan en educación pública, privada o particular**, con o sin **formación o experiencia pedagógica**. No obliga a cubrir todo en v1 ni a convertir estos grupos en categorías cerradas del dominio. El alcance futuro deberá justificarse con evidencia y decisiones posteriores.
 
 Para la investigación, Seyra debería contrastar prácticas **institucionales y no institucionales** y trayectorias de experiencia distintas: docentes titulados y novatos, tutores particulares, personas que enseñan por oficio o experiencia, facilitadores comunitarios, etc., sin asumir que todos ejercen las mismas responsabilidades o bajo las mismas regulaciones. Examinar qué cambia en planificación, apoyos, evaluación, preparación, confianza y necesidades de guía para quien enseña. Incluir diversidad como horizonte investigativo y documentar explícitamente lo no estudiado, **sin prometer representación universal**.
+
+## Horizon de investigacion: educacion en contextos de encierro
+
+Hernan propone incluir como aspiracion futura de TDidacta el apoyo a personas privadas de libertad, docentes penitenciarios y trayectorias educativas tras egreso. No es compromiso v1 ni promesa de reducir reincidencia.
+
+Seyra: contrastar practicas reales en escuelas penitenciarias chilenas y reinsercion juvenil, mas casos internacionales. Examinar planificacion, aulas, interrupciones por traslados, diversidad educativa, decisiones y apoyos, acceso a recursos, seguridad, conectividad, evaluacion, certificacion y continuidad despues de egreso. Distinguir derechos educativos de evidencia sobre reincidencia. Verificar cifras y causas; priorizar observacion y testimonios triangulados.
+
+Fuentes de orientacion: MINEDUC https://epja.mineduc.cl/que-es-la-educacion-en-contextos-de-encierro/ ; UNESCO https://www.uil.unesco.org/en/prison-education-case-studies .
