@@ -72,3 +72,9 @@ Se registró la [reconstrucción candidata del trabajo pedagógico](understandin
 **Evidencia nueva:** [indagación del dominio pedagógico](understanding/pedagogical-domain.md), con fuentes MINEDUC, UNESCO-IBE y EEF, y un flujo de trabajo educativo candidato que incluye planificación, elaboración, realización, evaluación y revisión. No constituye observación directa de aula ni taxonomía universal.
 
 **Fase:** Understanding permanece abierta; modalidad Problem-First provisional. **Siguiente presión:** contrastar la reconstrucción documental con un caso de práctica educativa y profundizar las distinciones entre estrategias, métodos, actividades, recursos y evaluación que resulten materiales. Comparación con categorías propias, arquitectura y TDIR diferidas a la responsabilidad/fase apropiada.
+
+## Indagación de estrategias y evaluación — 2026-10-11
+
+Se agregó [selección de estrategias, actividades y evaluación](understanding/strategy-activity-assessment.md), con referencias MINEDUC, CAST y EEF. Hallazgo documental: decisiones sobre estrategia, actividad y evaluación se vinculan a objetivos, concepciones previas, evidencias y variabilidad del alumnado; la retroalimentación puede conducir a revisiones iterativas. Se incluyó contraste ilustrativo de fotosíntesis, expresamente **no validado en aula**.
+
+**Fase:** Understanding sigue abierta. **Límite:** hay variabilidad terminológica entre método/enfoque/estrategia/técnica y falta evidencia de práctica docente observada. **Siguiente presión:** contraste con una práctica educativa documentada que conecte planificación, intervención y revisión. La correspondencia sistemática con drafts de TDidacta continúa reservada a Contextualizing.
